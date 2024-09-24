@@ -1,5 +1,6 @@
 ## Ubuntu安装OpenCV 4.10.0及Ubuntu下编译C++程序：   
-**参考B站视频（BV1XA4y1D7dX）**   
+**参考B站视频**    
+**BV1XA4y1D7dX**
 
 
 ## 主程序开发：   
